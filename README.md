@@ -11,7 +11,7 @@ I enjoy building creative projects, exploring new technologies, and turning idea
 - 🧩 Exploring new technologies and solving problems
 
 ### Tech Stack
-`HTML` `CSS` `JavaScript` `TypeScript` `Python` `Microsoft Suite` `SAP 4/HANA`
+`HTML` `CSS` `JavaScript` `TypeScript` `Python` `Microsoft Suite` `SAP 4/HANA` `SQL` `SAP 4/HANA`
 
 ### Currently
 🌱 Learning, building projects, and improving my skills one commit at a time.
