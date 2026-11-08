@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Murphy! 👋
 
-<!--
-**jpillone09/jpillone09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student interested in **Software Development, Business Analytics, and UI/UX Design**.
 
-Here are some ideas to get you started:
+I enjoy building creative projects, exploring new technologies, and turning ideas into practical digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Into
+- 💻 Front-End & Web Development
+- 🎨 UI/UX Design
+- 📊 Business Analytics
+- 🧩 Exploring new technologies and solving problems
+
+### Tech Stack
+`HTML` `CSS` `JavaScript` `TypeScript` `Python` `Microsoft Suite` `SAP 4/HANA`
+
+### Currently
+🌱 Learning, building projects, and improving my skills one commit at a time.
